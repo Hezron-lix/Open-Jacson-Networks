@@ -17,11 +17,15 @@ Visual components and Python
 
 
 ## Experiment:
+![image](https://github.com/Hezron-lix/Open-Jacson-Networks/assets/139331337/9120aa1b-0337-44a6-8c10-aed75479df82)
+![image](https://github.com/Hezron-lix/Open-Jacson-Networks/assets/139331337/611adc91-8a99-4ffc-b647-2ddd59bc2c71)
 
 
 ## Program
 
-``` python
+```
+#Developed By: Hezron Belix
+#Register No: 212223230078
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in sec
 ser_time1=float(input("Enter the mean inter service time of Lathe Machine 1 (in secs)
 ser_time2=float(input("Enter the mean inter service time of Lathe Machine 2 (in secs)
@@ -62,6 +66,7 @@ print("----------------------------------------------------------------------")
 ```
 
 ## Output
+![image](https://github.com/Hezron-lix/Open-Jacson-Networks/assets/139331337/0c3286a9-722a-4aef-a806-b0eca28b8422)
 
 ## Result
 
